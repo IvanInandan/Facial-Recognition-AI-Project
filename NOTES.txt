@@ -1,0 +1,2 @@
+- Larger the database is, the slower the program becomes because it starts to scan through a larger database (slowing down speed of scan).
+- Cannot cross-reference (scan) images taken from a side-profile as it does not recognize a face.
