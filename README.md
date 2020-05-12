@@ -3,7 +3,7 @@ This repository contains code pertaining to CS 497 Final Project:
 
 TO RUN CODE ON PYTHON 3:
 1. Launch command prompt and navigate to master directory
-2. Enter: "python face_rec.py"
+2. Enter: "python recognition.py"
 3. Program will execute and follow prompt on screen
 
 NOTES:
