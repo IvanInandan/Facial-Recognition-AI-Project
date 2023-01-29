@@ -1,4 +1,4 @@
-# Facial Recognition Match w/ Name Display: Deep Learning Project
+# Facial Recognition: Deep Learning Project
 
 TO RUN CODE ON PYTHON 3:
 1. Launch command prompt and navigate to master directory
